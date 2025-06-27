@@ -65,9 +65,3 @@ Después de hacer esto:
 
 ---
 
-## 📌 Recomendaciones adicionales
-
-- Si tu `.aar` depende de otras bibliotecas (por ejemplo, `core-ktx`, `zxing`, etc.), agrégalas manualmente a tus dependencias.
-- Asegúrate de versionar o documentar la ubicación del `.aar` si trabajas en equipo o publicas el proyecto.
-
----
